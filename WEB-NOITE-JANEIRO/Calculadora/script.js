@@ -31,4 +31,3 @@ function div(){
         // alert("Não há divisão por 0, digite outro número!!!")
     }
 }
-
